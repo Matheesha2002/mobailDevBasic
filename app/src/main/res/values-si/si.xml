@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ජියෝ ප්‍රශ්න</string>
+
+    <string name="question1">ශ්‍රී ලංකාව ආසියාවේද?</string>
+    <string name="true_button">හරි</string>
+    <string name="false_button">වැරදි</string>
+    <string name="next_button">ඊළඟ</string>
+    <string name="previous_button">පෙර</string>
+
+    <string name="correct_toast">හරි පිළිතුර!</string>
+    <string name="incorrect_toast">වැරදි පිළිතුර!</string>
+
+    <string name="call_button">අමතන්න</string>
+</resources>

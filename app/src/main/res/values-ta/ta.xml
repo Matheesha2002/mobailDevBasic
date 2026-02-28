@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ஜியோ வினாடி வினா</string>
+
+    <string name="question1">இலங்கை ஆசியாவில் உள்ளதா?</string>
+    <string name="true_button">சரி</string>
+    <string name="false_button">தவறு</string>
+    <string name="next_button">அடுத்து</string>
+    <string name="previous_button">முந்தைய</string>
+
+    <string name="correct_toast">சரியான பதில்!</string>
+    <string name="incorrect_toast">தவறான பதில்!</string>
+
+    <string name="call_button">அழைக்க</string>
+</resources>

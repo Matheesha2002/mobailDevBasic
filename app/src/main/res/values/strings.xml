@@ -1,17 +1,24 @@
 <resources>
+
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Is Sri Lanka an island?</string>
-    <string name="true_button">True</string>
-    <string name="false_button">False</string>
-    <string name="correct_toast">Correct!</string>
-    <string name="incorrect_toast">Incorrect!</string>
+
+    <!-- Questions -->
     <string name="question1">Sri Lanka is in Asia?</string>
     <string name="question2">London is in France?</string>
-    <string name="question3">Android is an OS?</string>
+    <string name="question3">Android is an Operating System?</string>
     <string name="question4">Java is a database?</string>
     <string name="question5">Earth is flat?</string>
 
+    <!-- Buttons -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
     <string name="next_button">Next</string>
     <string name="previous_button">Previous</string>
+    <string name="call_button">Call</string>
+
+    <!-- Toast Messages -->
+    <string name="correct_toast">Correct Answer!</string>
+    <string name="incorrect_toast">Wrong Answer!</string>
+    <string name="question_text" />
 
 </resources>
