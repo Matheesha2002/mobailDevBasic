@@ -74,6 +74,13 @@
             android:layout_height="wrap_content"
             android:text="தமிழ்"
             android:layout_margin="5dp"/>
+        <Button
+            android:id="@+id/call_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/call_button"
+            android:layout_marginTop="10dp"/>
+
 
     </LinearLayout>
 
